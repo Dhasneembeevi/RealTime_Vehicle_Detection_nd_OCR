@@ -1,0 +1,29 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# VS Code settings
+.vscode/
+
+# Mac OS files
+.DS_Store
+
+# Log files
+*.log
+
+# Environment variables or secrets
+.env
+
+# Jupyter notebooks checkpoint
+.ipynb_checkpoints/
+
+# Streamlit specific
+.streamlit/config.toml
+
+# OS generated files
+Thumbs.db

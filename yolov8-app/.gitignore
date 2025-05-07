@@ -1,0 +1,11 @@
+# Ignore virtual environment folder
+yolov8-env/
+
+# Ignore model weights (they can be large)
+yolov8-app/yolov8m.pt
+yolov8-app/yolov8n.pt
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+yolov8-app/Lib/
